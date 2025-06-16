@@ -1,0 +1,10 @@
+.headerCustom {
+  background-color: black;
+  /* border: red 3px solid; */
+  padding-left: 50px;
+  height: 90px;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
