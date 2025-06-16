@@ -4,7 +4,7 @@
   /* border: green solid 3px; */
 }
 
-.brandCustom > img {
+.brandCustom img {
   width: 100%;
   height: 100%;
   object-fit: cover;
